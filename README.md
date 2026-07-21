@@ -4,8 +4,6 @@
 
 ### Software Engineer • Product Developer • Open Source
 
-Building cross-platform applications, AI systems, developer tools and infrastructure software.
-
 </div>
 
 ---
